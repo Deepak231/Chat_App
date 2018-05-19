@@ -1,0 +1,11 @@
+E:\my prg\Projects\Chat_App\Chat_Application\Chat_Application\bin\Debug\Chat_Application.exe.config
+E:\my prg\Projects\Chat_App\Chat_Application\Chat_Application\bin\Debug\Chat_Application.exe
+E:\my prg\Projects\Chat_App\Chat_Application\Chat_Application\bin\Debug\Chat_Application.pdb
+E:\my prg\Projects\Chat_App\Chat_Application\Chat_Application\obj\Debug\Chat_Application.csprojResolveAssemblyReference.cache
+E:\my prg\Projects\Chat_App\Chat_Application\Chat_Application\obj\Debug\Chat_Application.Properties.Resources.resources
+E:\my prg\Projects\Chat_App\Chat_Application\Chat_Application\obj\Debug\Chat_Application.csproj.GenerateResource.Cache
+E:\my prg\Projects\Chat_App\Chat_Application\Chat_Application\obj\Debug\Chat_Application.exe
+E:\my prg\Projects\Chat_App\Chat_Application\Chat_Application\obj\Debug\Chat_Application.pdb
+E:\my prg\Projects\Chat_App\Chat_Application\Chat_Application\obj\Debug\Chat_Application.Form2.resources
+E:\my prg\Projects\Chat_App\Chat_Application\Chat_Application\obj\Debug\Chat_Application.Form1.resources
+E:\my prg\Projects\Chat_App\Chat_Application\Chat_Application\obj\Debug\Chat_Application.Form3.resources

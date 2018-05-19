@@ -1,0 +1,12 @@
+create table user (
+username varchar(10),
+password varchar(10) not null,
+image varchar(100),
+port_no int not null,
+primary key(username));
+
+
+port number 1030 (1024-49151)
+
+
+
